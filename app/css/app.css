@@ -1,0 +1,44 @@
+.parentDiv{
+border-size:1px;
+left:25%;
+    margin: -50px 0 0 -50px;
+border-style:solid;
+border-color:#4d4d4d;
+width:600px; 
+height:400px;
+margin:0 auto;
+background-color:#cce6ff;
+} 
+.topNote{
+font-size:30px;
+text-align: center;
+color:#404040;
+}
+
+.button {
+    background-color: #ff8c1a;
+    border: none;
+    color: white;
+    padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.rowStyle
+{
+height:40px
+}
+
+.result
+{
+background-color: grey
+}
+
+.cellStyle
+{
+height:40px
+}
